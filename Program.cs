@@ -17,11 +17,3 @@ namespace KSAtest__delete_
 
     }
 }
-
-namespace Something
-{
-    public class Class
-    {
-
-    }
-}
