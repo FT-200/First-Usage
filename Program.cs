@@ -8,7 +8,7 @@ namespace KSAtest__delete_
             var app = builder.Build();
 
 
-            app.MapGet("/", () => "Baha, Do some work, from now on, you're going to Die right now");
+            app.MapGet("/", () => "Baha, Doss some work, from now on, you're going to Die right now");
 
             app.Run();
         }
